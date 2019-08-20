@@ -3,7 +3,7 @@ body{
 }
 .App {
   background-color:white;
-  width:75%;
+  width:80%;
   margin: 0 auto;
 }
 
@@ -42,7 +42,10 @@ body{
   padding: 10px;
   text-align: center
 }
-
+.header__title,h3{
+  margin: 5px 0px 10px;
+  font-size: 30px;
+}
 
 .logo_img{
   width: 30px;
